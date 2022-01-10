@@ -1,11 +1,12 @@
 ---
-date: 2017-04-09T10:58:08-04:00
-description: "The Grand Hall"
+date: 2017-04-09T10:58:08.000-04:00
+description: The Grand Hall
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-tags: ["scene"]
-title: "Chapter I: The Grand Hall"
----
+tags:
+- scene
+title: 'Chapter I: The Grand Hall'
 
+---
 Three hundred and forty-eight years, six months, and nineteen days ago
 to-day, the Parisians awoke to the sound of all the bells in the triple
 circuit of the city, the university, and the town ringing a full peal.
@@ -32,24 +33,11 @@ What put the “whole population of Paris in commotion,” as Jehan de Troyes
 expresses it, on the sixth of January, was the double solemnity, united
 from time immemorial, of the Epiphany and the Feast of Fools.
 
-On that day, there was to be a bonfire on the Place de Grève, a maypole at
-the Chapelle de Braque, and a mystery at the Palais de Justice. It had
-been cried, to the sound of the trumpet, the preceding evening at all the
-cross roads, by the provost’s men, clad in handsome, short, sleeveless
-coats of violet camelot, with large white crosses upon their breasts.
+On that day, there was to be a bonfire on the Place de Grève, a maypole at the Chapelle de Braque, and a mystery at the Palais de Justice. It had been cried, to the sound of the trumpet, the preceding evening at all the cross roads, by the provost’s men, clad in handsome, short, sleeveless coats of violet camelot, with large white crosses upon their breasts.
 
-So the crowd of citizens, male and female, having closed their houses and
-shops, thronged from every direction, at early morn, towards some one of
-the three spots designated.
+So the crowd of citizens, male and female, having closed their houses and shops, thronged from every direction, at early morn, towards some one of the three spots designated.
 
-Each had made his choice; one, the bonfire; another, the maypole; another,
-the mystery play. It must be stated, in honor of the good sense of the
-loungers of Paris, that the greater part of this crowd directed their
-steps towards the bonfire, which was quite in season, or towards the
-mystery play, which was to be presented in the grand hall of the Palais de
-Justice (the courts of law), which was well roofed and walled; and that
-the curious left the poor, scantily flowered maypole to shiver all alone
-beneath the sky of January, in the cemetery of the Chapel of Braque.
+Each had made his choice; one, the bonfire; another, the maypole; another, the mystery play. It must be stated, in honour of the good sense of the loungers of Paris, that the greater part of this crowd directed their steps towards the bonfire, which was quite in season, or towards the mystery play, which was to be presented in the grand hall of the Palais de Justice (the courts of law), which was well roofed and walled; and that the curious left the poor, scantily flowered maypole to shiver all alone beneath the sky of January, in the cemetery of the Chapel of Braque.
 
 The populace thronged the avenues of the law courts in particular, because
 they knew that the Flemish ambassadors, who had arrived two days
